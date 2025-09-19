@@ -19,7 +19,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
             TravManzil
-            <span className="block text-heritage-golden mt-1">
+            <span className="block text-heritage-golden mt-2">
               Your Travel Buddy
             </span>
           </h1>
