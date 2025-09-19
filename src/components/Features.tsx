@@ -19,7 +19,7 @@ const Features = () => {
     {
       icon: <Users className="h-8 w-8" />,
       title: "Traveller Insights",
-      description: "Track accompanying travelers with demographic analysis",
+      description: "Track accompanying travellers",
       badge: "Analytics"
     },
     {
