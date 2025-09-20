@@ -20,7 +20,11 @@ const Footer = () => {
               <Button variant="heritage" size="sm">
                 Download App
               </Button>
-              <Button variant="outline" size="sm" className="border-white text-white hover:bg-white hover:text-heritage-deep-blue">
+              <Button
+                variant="outline"
+                size="sm"
+                className="border-heritage-golden text-heritage-golden hover:bg-heritage-golden hover:text-heritage-deep-blue transition-colors"
+              >
                 Learn More
               </Button>
             </div>
@@ -80,3 +84,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
